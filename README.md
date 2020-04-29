@@ -8,11 +8,9 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
 The website must consist of 7 pages total, including:
 
-* A [landing page](#landing-page) containing:
+* A [landing page](#index.html) containing:
   * An explanation of the project.
   * Links to each visualizations page.
 * Four [visualization pages](#visualization-pages), each with:
